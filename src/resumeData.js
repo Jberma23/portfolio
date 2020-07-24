@@ -22,7 +22,7 @@ let resumeData = {
       "className": "fa fa-pencil"
     }
   ],
-  "aboutme": "I am a Full stack web developer with a passion for entrepreneurship and innovation. With experience in Ruby on Rails, JavaScript, and React and a background in economics, while I have always had a love for projects that allowed me to be creative I found my love for coding through my dream to one day be an entrepreneur. I bring strong skills in team-building and project management that help companies scale and grow.",
+  "aboutme": "I am a Full stack web developer with a passion for entrepreneurship and innovation. With experience in Ruby on Rails, Oracle, PHP, Angular, JavaScript, and React and a background in economics, while I have always had a love for projects that allowed me to be creative I found my love for coding through my dream to one day be an entrepreneur. I bring strong skills in team-building and project management that help companies scale and grow.",
   "address": "Arlington, VA",
   "website": "https://github.com/Jberma23",
   "education": [
@@ -49,13 +49,13 @@ let resumeData = {
   ],
   "work": [
     {
-      "CompanyName": "Off-Grid Adventure Vans",
-      "specialization": "Design & Creation Associate",
-      "MonthOfBeginning": "August",
-      "YearOfBeginning": "2018",
-      "MonthOfLeaving": "Jan",
-      "YearOfLeaving": "2019",
-      "Achievements": ["Created financial forecasts including inventory, budgetary logs, break-even, and profitability forecasts", "Assisted in $300,000+ worth of renovations", "Employed Sketchup in order to create 3-dimensional floor plans.", "Worked and coordinated with engineering and design teams to create conversion plans"]
+      "CompanyName": "IMG-Crow",
+      "specialization": "Web Application Developer",
+      "MonthOfBeginning": "January",
+      "YearOfBeginning": "2020",
+      "MonthOfLeaving": "Current",
+      "YearOfLeaving": "",
+      "Achievements": ["Developed and manage an creating, processing, and publishing data for the Department of energy", "Created an Angular application to display data, run tasks and share data for several members of the Energy Information Agency", "updated an Oracle database to be easier to use and more efficient", "Worked within a team using Scrum which included daily meetings, working on project together, and communicating often"]
     },
     {
       "CompanyName": "Social Entrepreneur Corp",
@@ -91,7 +91,13 @@ let resumeData = {
       "skillname": "Redux"
     },
     {
+      "skillname": "Angular"
+    },
+    {
       "skillname": "JavaScript"
+    },
+    {
+      "skillname": "PHP"
     },
     {
       "skillname": "JQuery"
@@ -107,8 +113,10 @@ let resumeData = {
     },
     {
       "skillname": "CSS"
-    }
-    ,
+    },
+    {
+      "skillname": "Material UI"
+    },
     {
       "skillname": "SQL"
     },
@@ -123,6 +131,9 @@ let resumeData = {
     },
     {
       "skillname": "APIs"
+    },
+    {
+      "skillname": "Oracle"
     },
     {
       "skillname": "AJAX"
