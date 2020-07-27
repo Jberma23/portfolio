@@ -355,7 +355,21 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: photoshop 2s ease;
    -webkit-animation: photoshop 2s ease;
 }
-
+.php{
+   width: 80%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+.angular{
+   width: 80%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+.oracle{
+   width: 80%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
 .bootstrap {
   	width: 90%;
   	-moz-animation: photoshop 2s ease;
