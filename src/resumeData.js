@@ -50,7 +50,7 @@ let resumeData = {
   "work": [
     {
       "CompanyName": "IMG-Crow",
-      "specialization": "Web Application Developer",
+      "specialization": "Web Applications Developer",
       "MonthOfBeginning": "January",
       "YearOfBeginning": "2020",
       "MonthOfLeaving": "Current",
