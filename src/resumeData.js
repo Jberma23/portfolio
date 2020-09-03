@@ -56,7 +56,7 @@ let resumeData = {
       "YearOfBeginning": "2020",
       "MonthOfLeaving": "Current",
       "YearOfLeaving": "",
-      "Achievements": ["Loading, processing, and publishing large dataset for the Department of energy", "Created and maintaining an Angular application to display data, run processing and share data for several members team members as well as clients", "Updating and maintaining an Oracle database to be efficient and handle additional data-related tasks.", "Worked within a team using Scrum Framework which included daily meetings, working on project together, and communicating with the team and our clients often"]
+      "Achievements": ["Loading, processing, and publishing large datasets and managing server sites and databases", "Created and currently maintaining an Angular application to manage data processing, procedures, and trouble shooting with the click of a button", "Updating and maintaining an Oracle database to be efficient as well as adding new functionality and datasets when necessary", "Working within a team using Scrum Framework which included daily meetings, working on project together, and communicating with the team and our clients often"]
     },
     {
       "CompanyName": "Social Entrepreneur Corp",
