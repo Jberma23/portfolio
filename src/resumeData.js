@@ -4,7 +4,7 @@ let resumeData = {
   "role": "Full Stack Web Developer",
   "linkedinId": "jesse-berman-b0965715b",
   "skypeid": "Your skypeid",
-  "roleDescription": "I have always been intrigued by DIY or building projects that enabled me to express my creativity. I fell in love with Full stack development because it allows me to build programs from start to finish, innovate projects, and be creative.",
+  "roleDescription": "I have always been intrigued by DIY or building projects that enabled me to express my creativity. I fell in love with Full Stack development because, it allows me to build programs from start to finish, innovate projects, and be creative.",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -22,9 +22,10 @@ let resumeData = {
       "className": "fa fa-pencil"
     }
   ],
-  "aboutme": "I am a Full stack web developer with a passion for entrepreneurship and innovation. With experience in Ruby on Rails, Oracle, PHP, Angular, JavaScript, and React and a background in economics, while I have always had a love for projects that allowed me to be creative I found my love for coding through my dream to one day be an entrepreneur. I bring strong skills in team-building and project management that help companies scale and grow.",
-  "address": "Arlington, VA",
+  "aboutme": "I am a Full stack web developer with a passion for entrepreneurship and innovation. With experience in Ruby on Rails, Oracle, PHP, Angular, JavaScript, and React and a background in economics. While I have always had a love for projects that allowed me to be creative I found my love for coding through my dream to one day be an entrepreneur. I bring strong skills in team-building and project management that help companies scale and grow.",
+  "address": "Washington, DC",
   "website": "https://github.com/Jberma23",
+  "Email": "jesse.ben.berman@gmail.com",
   "education": [
     {
       "UniversityName": "Flatiron School",
@@ -49,13 +50,13 @@ let resumeData = {
   ],
   "work": [
     {
-      "CompanyName": "IMG-Crow",
+      "CompanyName": "IMG-Crown",
       "specialization": "Web Applications Developer",
       "MonthOfBeginning": "January",
       "YearOfBeginning": "2020",
       "MonthOfLeaving": "Current",
       "YearOfLeaving": "",
-      "Achievements": ["Developed and manage an creating, processing, and publishing data for the Department of energy", "Created an Angular application to display data, run tasks and share data for several members of the Energy Information Agency", "updated an Oracle database to be easier to use and more efficient", "Worked within a team using Scrum which included daily meetings, working on project together, and communicating often"]
+      "Achievements": ["Loading, processing, and publishing large dataset for the Department of energy", "Created and maintaining an Angular application to display data, run processing and share data for several members team members as well as clients", "Updating and maintaining an Oracle database to be efficient and handle additional data-related tasks.", "Worked within a team using Scrum Framework which included daily meetings, working on project together, and communicating with the team and our clients often"]
     },
     {
       "CompanyName": "Social Entrepreneur Corp",
