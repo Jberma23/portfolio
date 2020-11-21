@@ -142,7 +142,11 @@ let resumeData = {
     },
     {
       "skillname": "Github"
+    },
+    {
+      "skillname": "Gitlab"
     }
+
   ],
   "portfolio": [
     {
