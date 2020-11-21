@@ -326,109 +326,114 @@ ul#nav li.current a { color: #F06000; }
 }
 .javascript{
    width: 75%;
-   -moz-animation: photoshop 2s ease;
-   -webkit-animation: photoshop 2s ease;
+   -moz-animation: javascript 3s ease;
+   -webkit-animation: javascript 3s ease;
 
 }
 .ruby{
    width: 90%;
-   -moz-animation: photoshop 2s ease;
-   -webkit-animation: photoshop 2s ease;
+   -moz-animation: photoshop 3s ease;
+   -webkit-animation: photoshop 3s ease;
 }
 .rubyonrails{
    width: 85%;
-   -moz-animation: photoshop 2s ease;
-   -webkit-animation: photoshop 2s ease;
+   -moz-animation: ruby 3s ease;
+   -webkit-animation: ruby 3s ease;
 } 
 .html{
    width: 90%;
-   -moz-animation: photoshop 2s ease;
-   -webkit-animation: photoshop 2s ease;
+   -moz-animation: html 3s ease;
+   -webkit-animation: html 3s ease;
 }
 .react{
    width: 80%;
-   -moz-animation: photoshop 2s ease;
-   -webkit-animation: photoshop 2s ease;
+   -moz-animation: react 3s ease;
+   -webkit-animation: react 3s ease;
 }
 .redux{
    width: 50%;
-   -moz-animation: photoshop 2s ease;
-   -webkit-animation: photoshop 2s ease;
+   -moz-animation: redux 3s ease;
+   -webkit-animation: redux 3s ease;
 }
 .php{
    width: 80%;
-   -moz-animation: photoshop 2s ease;
-   -webkit-animation: photoshop 2s ease;
+   -moz-animation: php 3s ease;
+   -webkit-animation: php 3s ease;
 }
 .angular{
    width: 80%;
-   -moz-animation: photoshop 2s ease;
-   -webkit-animation: photoshop 2s ease;
+   -moz-animation: angular 3s ease;
+   -webkit-animation: angular 3s ease;
 }
 .oracle{
    width: 80%;
-   -moz-animation: photoshop 2s ease;
-   -webkit-animation: photoshop 2s ease;
+   -moz-animation: oracle 3s ease;
+   -webkit-animation: oracle 3s ease;
 }
 .bootstrap {
   	width: 90%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: bootstrap 3s ease;
+  	-webkit-animation: bootstrap 3s ease;
 }
 .sql {
   	width: 70%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-moz-animation: sql 3s ease;
+  	-webkit-animation: sql 3s ease;
 }
 .apis {
   	width: 65%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	-moz-animation: apis 3s ease;
+  	-webkit-animation: apis 3s ease;
 }
 .css {
   	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: css 3s ease;
+  	-webkit-animation: css 3s ease;
 }
 .html5 {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: html5 3s ease;
+  	-webkit-animation: html5 3s ease;
 }
 .jquery {
   	width: 70%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: jquery 3s ease;
+  	-webkit-animation: jquery 3s ease;
 }
 .json {
-   width: 99%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   width: 100%;
+   -moz-animation: json 3s ease;
+   -webkit-animation: json 3s ease;
 }
 .semanticui {
+   width: 90%;
+   -moz-animation: semanticui 3s ease;
+   -webkit-animation: semanticui 3s ease;
+}
+.materialui {
    width: 80%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: materialui 3s ease;
+   -webkit-animation: materialui 3s ease;
 }
 .github {
    width: 75%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: github 3s ease;
+   -webkit-animation: github 3s ease;
 }
 .ajax {
    width: 60%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   -moz-animation: ajax 3s ease;
+   -webkit-animation: ajax 3s ease;
 }
 .aws {
-   width: 40%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   width: 45%;
+   -moz-animation: aws 3s ease;
+   -webkit-animation: aws 3s ease;
 }
 .heroku {
-   width: 60%;
-   -moz-animation: jquery 2s ease;
-   -webkit-animation: jquery 2s ease;
+   width: 70%;
+   -moz-animation: heroku 3s ease;
+   -webkit-animation: heroku 3s ease;
 }
 
 @-moz-keyframes photoshop {
